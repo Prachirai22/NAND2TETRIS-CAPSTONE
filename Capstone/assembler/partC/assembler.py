@@ -1,7 +1,3 @@
-# Author: Chirag Chanchal (chiragchanchal)
-# Project: Nand2Tetris - Capstone (Two-Pass Hack Assembler)
-# Remarks: Original implementation by Chirag Chanchal. All rights reserved.
-
 """Two-pass Hack Assembler translating .asm source files into 16-bit .hack binary."""
 
 from __future__ import annotations
